@@ -1,8 +1,8 @@
 # Indie Testing Community Code of Conduct
 
-The Indie Testing Community is dedicated to providing a harassment-free experience for everyone. We do not tolerate harassment of community members in any form.
+The **Indie Testing Community** is dedicated to providing a harassment-free experience for everyone. We do not tolerate harassment of community members in any form.
 
-This code of conduct applies to all channels in the Indie Testing Community Slack, irrespective of whether those channels are public or private. Anyone who violates this code of conduct may be sanctioned or expelled from the community at the discretion of the Mod Team.
+This Code of Conduct (CoC) applies to all channels in the Indie Testing Community Slack, irrespective of whether those channels are public or private. Anyone who violates this code of conduct may be sanctioned or expelled from the community at the discretion of the Mod Team.
 
 Some Indie Testing Community channels may have additional rules in place, which will be made clearly available to all members of that channel. Participants are responsible for knowing and abiding by these rules.
 
@@ -12,10 +12,10 @@ Harassment includes:
 - Unwelcome comments regarding a person’s lifestyle choices and practices, including those related to food, health, parenting, drugs, and employment.
 - Deliberate misgendering or use of ‘dead’ or rejected names.
 - Gratuitous or off-topic sexual images or behaviour in spaces where they’re not appropriate.
-- Simulated physical contact (eg, textual descriptions like “*hug*” or “*backrub*”) without consent or after a request to stop.
+- Simulated physical contact (e.g. textual descriptions like “*hug*” or “*backrub*”) without consent or after a request to stop.
 - Threats of violence.
 - Incitement of violence towards any individual, including encouraging a person to commit suicide or to engage in self-harm.
--Deliberate intimidation.
+- Deliberate intimidation.
 - Stalking or following.
 - Harassing photography or recording, including logging online activity for harassment purposes.
 - Sustained disruption of discussion.
