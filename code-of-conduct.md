@@ -2,6 +2,8 @@
 
 The **Indie Testing Community** is dedicated to providing a harassment-free experience for everyone. We do not tolerate harassment of community members in any form.
 
+# I WANT TO ADD A NEW HEADING HERE
+
 This Code of Conduct (CoC) applies to all channels in the Indie Testing Community Slack, irrespective of whether those channels are public or private. Anyone who violates this code of conduct may be sanctioned or expelled from the community at the discretion of the Mod Team.
 
 Some Indie Testing Community channels may have additional rules in place, which will be made clearly available to all members of that channel. Participants are responsible for knowing and abiding by these rules.
